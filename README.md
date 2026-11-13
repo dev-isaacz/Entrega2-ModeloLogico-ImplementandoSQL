@@ -346,4 +346,4 @@ Conteúdo na `main`: README, dicionário HTML, DER, modelo lógico, scripts, lev
 
 ## 7. Apresentação Corporativa Final
 
-Roteiro de 8 minutos: (1) problema: estoque, perdas, validade e fiado fora do sistema; (2) solução: 12 tabelas em 3FN; (3) modelo lógico; (4) `script.sql` rodando; (5) demonstração de G05, G06, G09, G11 e A09; (6) BI e IA; (7) benefícios: menos perda, reposição no tempo certo, cobrança em dia, rastreio de lote.
+https://youtu.be/a8a5GhpYi7Y?is=uBSxIS4_4emZ8ZyG
